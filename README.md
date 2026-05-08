@@ -1,4 +1,4 @@
-# SkillKit — Ijarah-Based Vocational Tool Leasing
+# SkillKit: Ijarah-Based Vocational Tool Leasing
 
 **BS FinTech · FAST University Islamabad · Web Engineering**
 **Instructor:** Arsalan Khan | **Team:** Mahnoor Junaid · Manahil Khattak · Noor-e-Zahra · Taha Haider
