@@ -6,7 +6,7 @@
 ---
 
 ## The Idea
-Like rent-a-car — but for tools. NAVTTC graduates lease a professional starter kit (e.g. Hilti Drill, Pipe Threader) for 12 months via halal Ijarah. They pay monthly rent (~PKR 4,500) from a digital wallet instead of taking an interest-bearing loan.
+Like rent-a-car, but for tools. NAVTTC graduates lease a professional starter kit (e.g. Hilti Drill, Pipe Threader) for 12 months via halal Ijarah. They pay monthly rent (~PKR 4,500) from a digital wallet instead of taking an interest-bearing loan.
 
 ---
 
